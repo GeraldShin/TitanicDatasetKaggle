@@ -1,3 +1,3 @@
 # TitanicDatasetKaggle
 
-*** WIP ***
+*** DOCUMENTATION IS WIP ***
